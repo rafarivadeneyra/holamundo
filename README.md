@@ -1,2 +1,2 @@
 # holamundo
-repositiro de prueba de un nuevo branch
+repositorio de prueba de un nuevo branch
